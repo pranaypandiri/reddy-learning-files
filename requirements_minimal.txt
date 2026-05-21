@@ -1,0 +1,6 @@
+google-cloud-aiplatform
+langchain
+langchain-google-vertexai
+langchain-core
+langgraph
+streamlit

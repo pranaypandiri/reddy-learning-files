@@ -1,0 +1,12 @@
+langgraph>=0.2.0
+langchain>=0.3.0
+langchain-google-vertexai>=2.0.0
+google-cloud-firestore>=2.16.0
+google-cloud-logging>=3.10.0
+cloud-sql-python-connector>=1.9.0
+faiss-cpu>=1.8.0
+streamlit>=1.38.0
+sqlalchemy>=2.0.30
+psycopg2-binary>=2.9.9
+python-dotenv>=1.0.0
+pandas>=2.2.0
